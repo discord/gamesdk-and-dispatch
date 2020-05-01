@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for the GameSDK or Dispatch
-title: '[Feature request]'
+title: '[Feature Request]'
 labels: enhancement
 
 ---
